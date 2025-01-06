@@ -1,6 +1,21 @@
 ## 1.プロダクト名
 **お願いquest** 自家用旅客有償運送
 
+url一覧
+類似アプリ↓
+https://www.any-times.com/
+
+自家用有償旅客運送
+https://kotsutorisetsu.com/20200815-01/
+
+自家用有償旅客運送に関する法律
+[04.pdf](https://github.com/user-attachments/files/18315536/04.pdf)
+
+自家用有償旅客運送の申請
+https://www.pref.nagano.lg.jp/kotsu/kurashi/kotsu/bus/jikayouyusho/20150401.html
+
+
+
 ## 2.一言サービスコンセプト
 田舎町特有の不便さ、身近な困りごとを誰かに助けてもらえるよう呼びかけができるアプリ
 
@@ -62,7 +77,6 @@
 
 システム構成図
 
-自家用有償旅客運送について
-[04.pdf](https://github.com/user-attachments/files/18315536/04.pdf)
+
 
 
