@@ -1,22 +1,5 @@
 ## 1.プロダクト名
-**お願いquest** 自家用旅客有償運送
-
-url一覧
-類似アプリ↓
-https://www.any-times.com/
-
-自家用有償旅客運送
-https://kotsutorisetsu.com/20200815-01/
-
-自家用有償旅客運送に関する法律
-[04.pdf](https://github.com/user-attachments/files/18315536/04.pdf)
-
-自家用有償旅客運送の申請
-https://www.pref.nagano.lg.jp/kotsu/kurashi/kotsu/bus/jikayouyusho/20150401.html
-
-### 自家用有償旅客運送とは
-地域住民の生活の維持に不可欠な過疎地や福祉の輸送がバス・タクシー事業では十分提供されない場合に、自治体や住民、事業者など地域の関係者が合意すれば、国土交通大臣等の登録を受けた上で、市町村やNPO等が自家用車を使用して有償で運送できる制度です。
-
+**お願いquest** 
 
 
 ## 2.一言サービスコンセプト
@@ -76,6 +59,33 @@ https://www.pref.nagano.lg.jp/kotsu/kurashi/kotsu/bus/jikayouyusho/20150401.html
 4. スワイプ（good / bad）
 5. マッチング通知 → DMで交渉
 6. 服の削除・管理画面更新
+
+
+自家用旅客有償運送について
+
+
+
+url一覧
+類似アプリ↓
+https://www.any-times.com/
+
+自家用有償旅客運送
+https://kotsutorisetsu.com/20200815-01/
+
+自家用有償旅客運送に関する法律
+[04.pdf](https://github.com/user-attachments/files/18315536/04.pdf)
+
+自家用有償旅客運送の申請
+https://www.pref.nagano.lg.jp/kotsu/kurashi/kotsu/bus/jikayouyusho/20150401.html
+
+### 自家用有償旅客運送とは
+地域住民の生活の維持に不可欠な過疎地や福祉の輸送がバス・タクシー事業では十分提供されない場合に、自治体や住民、事業者など地域の関係者が合意すれば、国土交通大臣等の登録を受けた上で、市町村やNPO等が自家用車を使用して有償で運送できる制度です。
+
+
+
+
+
+
 
 
 システム構成図
